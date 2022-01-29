@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "xiona-339619",
+  "private_key_id": "31dd05f6148ab1a6e317c237aa565841c832ef54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXZYXD8mw0B5zi\naCtniI2xqrYVpqyG0Tjbjn/AM7AB9/sFLplPkQpbUlIA7BO6r6az4Bb+FLvYjwQB\nanXID54axNsDECCrXl7nrjm7z9tkZ3ZuJoI5MXa3TNc6gQFBX47KNJxRoWjsFjXL\nLFDDnkvtP5xhrMg+WhGEs8PL3HURSXbub5Pj5Xg0x9VHlOFSlWDmBa7NuvEhx69a\nsJgB4Q1ReJM/tHmi0VK/5yi/1R850WCoZaISVdUiRXp1Di/fJVRlpH5FlxXdOn+N\nQBXaAG8sQC4nIKxHD/rKhgz20KLjkX14ARcMQtxn2B1b6s5gMRZCF7xnOPIASWzR\nEOQg0HW3AgMBAAECggEAPbJiwmGqBK05jtBvvlQq4f0X8tOvD17Wfm0uwosLm0TA\nrhdO6q+M2+OUgZcdf5fYlCVX8KdXtwwgBZfM7OUsUFaatSHlebCqVopdFyLOoM/R\n6HM3UdKNQqvL6oIRLfyFFf5D2E33k8g42F11NNMexHI4BPJM2S9LXUtwhfA7yBtP\n+FbPM6lbJj1zqCHmBjarob4UqgyBf6shWkqS+S1I71GnhxMezNAB9ATKsezWiRiJ\nlM7LnvuXhQATNBbaWw49EnGsMYPDNP4g7/nRU5AaC6qgk1N3MasIA3+H01lBqioh\nitv0EXP2KXbsfGvYAT0lw2FAbJvN4IkoRGELSSK/YQKBgQD+GJzcTcWEqg0fk9Kk\nqjywc1UeQbEg2Fw5gKDVaZ0sWuS83aDcTF87lVSayPgQAJtYlw20wkTespbmBHD0\n0cryQ4V5A8nPFWx1OLelVTM7HYm1QG+TvA18EFnXNFiyTwv3HBQ6RtnuAjz+vd2e\nat1Y4caA8YxzD3+9S1LzFNTLAwKBgQDZAq3nELCF9TOQsjXMLORPdCOhgpXZER3E\np/x8qnspuUiFQiEQDksMzTN+G6LZW18gDRVe+CS63D2a+8vITxOvh4ullq5kSAg3\n2aZ6e4I7Cv6HVH+/uKMer5ipzSU6qoH7rmIod2dou0nCjAu1bP4cZNu8VZh/NWyP\nGWOcyvyyPQKBgQDLw1sPA8LwVxn9B6L075uJeIN6pv1vNHIIntDbMz2aUy15E1Wr\nNAdulZrqIV1kH8hzq3aPTPbDi32c6VTXzuErk+AWImaUjT6TZi9HA2L49f/3fLu9\nQiGiKs6Q2GaEXwVeXYMPFMAwsFTPh9yP7GyimTOBNbMGlhg+6YeUbVETlwKBgEFD\n2wVJMa24BuAXmLJlNeznYufqHCMCUM+aLgdYRl5QCQ16y/LGObAJ7tiYeyufnUZI\naQr82h8Qqb54x9rgXW1G+Kq+XIhwWXhijvz7NDmJnu8YbKs+XmCWMvWuaunv6dPF\nqGO/NWx8FzzZXZQcyXfEpYlIvOpVKOcInbrEGaeJAoGAICiF9kBQhtjhiIN55p94\nJwilk33dmBtC8z4jc7vg2sh+/JnHFkfbHvE+mXf40yzE+SZbK1OQyJe1rhFhrvZu\n4tZYXVBKuFUfPzfLNd/rYrWAZbQXImMjv0Fa52Xb20ZUi9CbuHXNe76Be2D6sv/q\ntN7vs4r3CbW5AK5GlAhdYGw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@xiona-339619.iam.gserviceaccount.com",
+  "client_id": "116257728728531271926",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40xiona-339619.iam.gserviceaccount.com"
+}

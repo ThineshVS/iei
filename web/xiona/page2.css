@@ -1,0 +1,20 @@
+img {
+   position: inherit;
+   top: 0px;
+   left: 0px;
+}
+
+.texts{
+    text-align: center;
+    text-decoration-style: solid;
+    color: black;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image:url('2474032.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin: none ;
+}
