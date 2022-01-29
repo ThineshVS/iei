@@ -22,4 +22,4 @@ tf2onnx==1.9.3
 tf_nightly==2.9.0.dev20220121
 torch==1.10.0
 torchvision==0.11.1
-xlwings==0.25.3
+
